@@ -10,6 +10,13 @@ This project is an android based 3D treasure hunt Game. Android games are played
 - The player has to play different levels. Every level consists of some treasure and other precious stuff which players are supposed to collect while surfing through different levels. The player score will be increased on these actions.
 - The player will be able to see highscores of different players globally.
 
+## Installation
+
+1. To run this project, Unity needs to be installed.
+2. Clone this repository.
+3. Open the project in unity, build and clean the project.
+4. Run the project.
+
 ## License
 
 This project is licensed under the GPL License - see the [LICENSE.md](https://github.com/MahamArif/adventures-of-elysium/blob/master/LICENSE) file for details.
