@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 77264ece720b42848bc36211aec3241d
+timeCreated: 1489491308
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 2D Man Sang_001
+    100002: //RootNode
+    100004: Component#11_001
+    100006: Component#11_002
+    100008: Component#11_003
+    100010: Component#11_004
+    100012: Component#11_005
+    100014: Component#11_006
+    100016: Component#11_007
+    100018: Component#11_008
+    100020: Component#12_001
+    100022: Component#12_002
+    100024: Component#12_003
+    100026: Component#12_004
+    100028: Component#12_005
+    100030: Component#12_006
+    100032: Component#12_007
+    100034: Component#12_008
+    100036: Component#16_001
+    100038: Component#1_001
+    100040: Component#1_003
+    100042: Component#1_005
+    100044: Component#1_007
+    100046: Component#2_001
+    100048: Component#3_001
+    100050: Component#3_002
+    100052: Component#3_003
+    100054: Component#3_004
+    100056: Component#3_005
+    100058: Component#3_006
+    100060: Component#3_007
+    100062: Component#3_008
+    100064: Component#3_009
+    100066: Component#3_010
+    100068: Component#3_011
+    100070: Component#3_012
+    100072: Component#3_013
+    100074: Component#3_014
+    100076: Component#3_015
+    100078: Component#3_016
+    100080: Component#3_017
+    100082: Component#3_018
+    100084: Component#3_019
+    100086: Component#3_020
+    100088: Component#3_021
+    100090: Component#3_022
+    100092: Component#3_023
+    100094: Component#3_024
+    100096: Component#3_025
+    100098: Component#3_026
+    100100: Component#3_027
+    100102: Component#3_028
+    100104: Component#4_001
+    100106: Component#4_002
+    100108: Component#4_003
+    100110: Component#4_004
+    100112: Component#5_001
+    100114: Component#5_002
+    100116: cool island_001
+    100118: Group_001
+    100120: Group_003
+    100122: Group_005
+    100124: Group_007
+    100126: Group_009
+    100128: Group_011
+    100130: Group_013
+    100132: Group_015
+    100134: Group_017
+    100136: Group_019
+    100138: Group_021
+    100140: Group_023
+    100142: Group_025
+    100144: Group_027
+    100146: slat chair_001
+    100148: slat chair_003
+    100150: tv with surround sound_001
+    400000: 2D Man Sang_001
+    400002: //RootNode
+    400004: Component#11_001
+    400006: Component#11_002
+    400008: Component#11_003
+    400010: Component#11_004
+    400012: Component#11_005
+    400014: Component#11_006
+    400016: Component#11_007
+    400018: Component#11_008
+    400020: Component#12_001
+    400022: Component#12_002
+    400024: Component#12_003
+    400026: Component#12_004
+    400028: Component#12_005
+    400030: Component#12_006
+    400032: Component#12_007
+    400034: Component#12_008
+    400036: Component#16_001
+    400038: Component#1_001
+    400040: Component#1_003
+    400042: Component#1_005
+    400044: Component#1_007
+    400046: Component#2_001
+    400048: Component#3_001
+    400050: Component#3_002
+    400052: Component#3_003
+    400054: Component#3_004
+    400056: Component#3_005
+    400058: Component#3_006
+    400060: Component#3_007
+    400062: Component#3_008
+    400064: Component#3_009
+    400066: Component#3_010
+    400068: Component#3_011
+    400070: Component#3_012
+    400072: Component#3_013
+    400074: Component#3_014
+    400076: Component#3_015
+    400078: Component#3_016
+    400080: Component#3_017
+    400082: Component#3_018
+    400084: Component#3_019
+    400086: Component#3_020
+    400088: Component#3_021
+    400090: Component#3_022
+    400092: Component#3_023
+    400094: Component#3_024
+    400096: Component#3_025
+    400098: Component#3_026
+    400100: Component#3_027
+    400102: Component#3_028
+    400104: Component#4_001
+    400106: Component#4_002
+    400108: Component#4_003
+    400110: Component#4_004
+    400112: Component#5_001
+    400114: Component#5_002
+    400116: cool island_001
+    400118: Group_001
+    400120: Group_003
+    400122: Group_005
+    400124: Group_007
+    400126: Group_009
+    400128: Group_011
+    400130: Group_013
+    400132: Group_015
+    400134: Group_017
+    400136: Group_019
+    400138: Group_021
+    400140: Group_023
+    400142: Group_025
+    400144: Group_027
+    400146: slat chair_001
+    400148: slat chair_003
+    400150: tv with surround sound_001
+    2300000: 2D Man Sang_001
+    2300002: Component#11_001
+    2300004: Component#11_002
+    2300006: Component#11_003
+    2300008: Component#11_004
+    2300010: Component#11_005
+    2300012: Component#11_006
+    2300014: Component#11_007
+    2300016: Component#11_008
+    2300018: Component#12_001
+    2300020: Component#12_002
+    2300022: Component#12_003
+    2300024: Component#12_004
+    2300026: Component#12_005
+    2300028: Component#12_006
+    2300030: Component#12_007
+    2300032: Component#12_008
+    2300034: Component#16_001
+    2300036: Component#1_001
+    2300038: Component#1_003
+    2300040: Component#1_005
+    2300042: Component#1_007
+    2300044: Component#2_001
+    2300046: Component#3_001
+    2300048: Component#3_002
+    2300050: Component#3_003
+    2300052: Component#3_004
+    2300054: Component#3_005
+    2300056: Component#3_006
+    2300058: Component#3_007
+    2300060: Component#3_008
+    2300062: Component#3_009
+    2300064: Component#3_010
+    2300066: Component#3_011
+    2300068: Component#3_012
+    2300070: Component#3_013
+    2300072: Component#3_014
+    2300074: Component#3_015
+    2300076: Component#3_016
+    2300078: Component#3_017
+    2300080: Component#3_018
+    2300082: Component#3_019
+    2300084: Component#3_020
+    2300086: Component#3_021
+    2300088: Component#3_022
+    2300090: Component#3_023
+    2300092: Component#3_024
+    2300094: Component#3_025
+    2300096: Component#3_026
+    2300098: Component#3_027
+    2300100: Component#3_028
+    2300102: Component#4_001
+    2300104: Component#4_002
+    2300106: Component#4_003
+    2300108: Component#4_004
+    2300110: Component#5_001
+    2300112: Component#5_002
+    2300114: cool island_001
+    2300116: Group_001
+    2300118: Group_003
+    2300120: Group_005
+    2300122: Group_007
+    2300124: Group_009
+    2300126: Group_011
+    2300128: Group_013
+    2300130: Group_015
+    2300132: Group_017
+    2300134: Group_019
+    2300136: Group_021
+    2300138: Group_023
+    2300140: Group_025
+    2300142: Group_027
+    2300144: slat chair_001
+    2300146: slat chair_003
+    2300148: tv with surround sound_001
+    3300000: 2D Man Sang_001
+    3300002: Component#11_001
+    3300004: Component#11_002
+    3300006: Component#11_003
+    3300008: Component#11_004
+    3300010: Component#11_005
+    3300012: Component#11_006
+    3300014: Component#11_007
+    3300016: Component#11_008
+    3300018: Component#12_001
+    3300020: Component#12_002
+    3300022: Component#12_003
+    3300024: Component#12_004
+    3300026: Component#12_005
+    3300028: Component#12_006
+    3300030: Component#12_007
+    3300032: Component#12_008
+    3300034: Component#16_001
+    3300036: Component#1_001
+    3300038: Component#1_003
+    3300040: Component#1_005
+    3300042: Component#1_007
+    3300044: Component#2_001
+    3300046: Component#3_001
+    3300048: Component#3_002
+    3300050: Component#3_003
+    3300052: Component#3_004
+    3300054: Component#3_005
+    3300056: Component#3_006
+    3300058: Component#3_007
+    3300060: Component#3_008
+    3300062: Component#3_009
+    3300064: Component#3_010
+    3300066: Component#3_011
+    3300068: Component#3_012
+    3300070: Component#3_013
+    3300072: Component#3_014
+    3300074: Component#3_015
+    3300076: Component#3_016
+    3300078: Component#3_017
+    3300080: Component#3_018
+    3300082: Component#3_019
+    3300084: Component#3_020
+    3300086: Component#3_021
+    3300088: Component#3_022
+    3300090: Component#3_023
+    3300092: Component#3_024
+    3300094: Component#3_025
+    3300096: Component#3_026
+    3300098: Component#3_027
+    3300100: Component#3_028
+    3300102: Component#4_001
+    3300104: Component#4_002
+    3300106: Component#4_003
+    3300108: Component#4_004
+    3300110: Component#5_001
+    3300112: Component#5_002
+    3300114: cool island_001
+    3300116: Group_001
+    3300118: Group_003
+    3300120: Group_005
+    3300122: Group_007
+    3300124: Group_009
+    3300126: Group_011
+    3300128: Group_013
+    3300130: Group_015
+    3300132: Group_017
+    3300134: Group_019
+    3300136: Group_021
+    3300138: Group_023
+    3300140: Group_025
+    3300142: Group_027
+    3300144: slat chair_001
+    3300146: slat chair_003
+    3300148: tv with surround sound_001
+    4300000: Component#1_007
+    4300002: Component#1_005
+    4300004: Component#1_003
+    4300006: Component#1_001
+    4300008: Component#2_001
+    4300010: Component#5_002
+    4300012: Component#5_001
+    4300014: Component#3_028
+    4300016: Component#3_027
+    4300018: Component#3_026
+    4300020: Component#3_025
+    4300022: Component#3_024
+    4300024: Component#3_023
+    4300026: Component#3_022
+    4300028: Component#4_004
+    4300030: Component#3_021
+    4300032: Component#3_020
+    4300034: Component#3_019
+    4300036: Component#3_018
+    4300038: Component#3_017
+    4300040: Component#3_016
+    4300042: Component#3_015
+    4300044: Component#4_003
+    4300046: Component#3_014
+    4300048: Component#3_013
+    4300050: Component#3_012
+    4300052: Component#3_011
+    4300054: Component#3_010
+    4300056: Component#3_009
+    4300058: Component#3_008
+    4300060: Component#4_002
+    4300062: Component#3_007
+    4300064: Component#3_006
+    4300066: Component#3_005
+    4300068: Component#3_004
+    4300070: Component#3_003
+    4300072: Component#3_002
+    4300074: Component#3_001
+    4300076: Component#4_001
+    4300078: Group_027
+    4300080: Group_025
+    4300082: Group_023
+    4300084: Group_021
+    4300086: Group_019
+    4300088: Group_017
+    4300090: Group_015
+    4300092: Group_013
+    4300094: Group_011
+    4300096: Group_009
+    4300098: Group_007
+    4300100: Group_005
+    4300102: Group_003
+    4300104: Group_001
+    4300106: cool island_001
+    4300108: Component#16_001
+    4300110: slat chair_003
+    4300112: slat chair_001
+    4300114: Component#11_008
+    4300116: Component#11_007
+    4300118: Component#11_006
+    4300120: Component#11_005
+    4300122: Component#12_008
+    4300124: Component#12_007
+    4300126: Component#12_006
+    4300128: Component#12_005
+    4300130: Component#11_004
+    4300132: Component#11_003
+    4300134: Component#11_002
+    4300136: Component#11_001
+    4300138: Component#12_004
+    4300140: Component#12_003
+    4300142: Component#12_002
+    4300144: Component#12_001
+    4300146: tv with surround sound_001
+    4300148: 2D Man Sang_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

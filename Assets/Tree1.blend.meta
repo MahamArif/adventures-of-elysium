@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: cc0a779366f70dd4e82cdf3ab3f8b3c0
+timeCreated: 1488688039
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: leaves
+    100002: leaves_001
+    100004: leaves_001_MeshPart0
+    100006: leaves_001_MeshPart1
+    100008: leaves_001_MeshPart2
+    100010: leaves_001_MeshPart3
+    100012: leaves_001_MeshPart4
+    100014: leaves_001_MeshPart5
+    100016: leaves_002
+    100018: leaves_002_MeshPart0
+    100020: leaves_002_MeshPart1
+    100022: leaves_002_MeshPart2
+    100024: leaves_002_MeshPart3
+    100026: leaves_MeshPart0
+    100028: leaves_MeshPart1
+    100030: leaves_MeshPart2
+    100032: leaves_MeshPart3
+    100034: leaves_MeshPart4
+    100036: Plane
+    100038: tree
+    100040: //RootNode
+    100042: tree_001
+    100044: tree_001_MeshPart0
+    100046: tree_001_MeshPart1
+    100048: tree_002
+    100050: tree_002_MeshPart0
+    100052: tree_002_MeshPart1
+    100054: tree_MeshPart0
+    100056: tree_MeshPart1
+    400000: leaves
+    400002: leaves_001
+    400004: leaves_001_MeshPart0
+    400006: leaves_001_MeshPart1
+    400008: leaves_001_MeshPart2
+    400010: leaves_001_MeshPart3
+    400012: leaves_001_MeshPart4
+    400014: leaves_001_MeshPart5
+    400016: leaves_002
+    400018: leaves_002_MeshPart0
+    400020: leaves_002_MeshPart1
+    400022: leaves_002_MeshPart2
+    400024: leaves_002_MeshPart3
+    400026: leaves_MeshPart0
+    400028: leaves_MeshPart1
+    400030: leaves_MeshPart2
+    400032: leaves_MeshPart3
+    400034: leaves_MeshPart4
+    400036: Plane
+    400038: tree
+    400040: //RootNode
+    400042: tree_001
+    400044: tree_001_MeshPart0
+    400046: tree_001_MeshPart1
+    400048: tree_002
+    400050: tree_002_MeshPart0
+    400052: tree_002_MeshPart1
+    400054: tree_MeshPart0
+    400056: tree_MeshPart1
+    2300000: leaves_001_MeshPart0
+    2300002: leaves_001_MeshPart1
+    2300004: leaves_001_MeshPart2
+    2300006: leaves_001_MeshPart3
+    2300008: leaves_001_MeshPart4
+    2300010: leaves_001_MeshPart5
+    2300012: leaves_002_MeshPart0
+    2300014: leaves_002_MeshPart1
+    2300016: leaves_002_MeshPart2
+    2300018: leaves_002_MeshPart3
+    2300020: leaves_MeshPart0
+    2300022: leaves_MeshPart1
+    2300024: leaves_MeshPart2
+    2300026: leaves_MeshPart3
+    2300028: leaves_MeshPart4
+    2300030: Plane
+    2300032: tree_001_MeshPart0
+    2300034: tree_001_MeshPart1
+    2300036: tree_002_MeshPart0
+    2300038: tree_002_MeshPart1
+    2300040: tree_MeshPart0
+    2300042: tree_MeshPart1
+    3300000: leaves_001_MeshPart0
+    3300002: leaves_001_MeshPart1
+    3300004: leaves_001_MeshPart2
+    3300006: leaves_001_MeshPart3
+    3300008: leaves_001_MeshPart4
+    3300010: leaves_001_MeshPart5
+    3300012: leaves_002_MeshPart0
+    3300014: leaves_002_MeshPart1
+    3300016: leaves_002_MeshPart2
+    3300018: leaves_002_MeshPart3
+    3300020: leaves_MeshPart0
+    3300022: leaves_MeshPart1
+    3300024: leaves_MeshPart2
+    3300026: leaves_MeshPart3
+    3300028: leaves_MeshPart4
+    3300030: Plane
+    3300032: tree_001_MeshPart0
+    3300034: tree_001_MeshPart1
+    3300036: tree_002_MeshPart0
+    3300038: tree_002_MeshPart1
+    3300040: tree_MeshPart0
+    3300042: tree_MeshPart1
+    4300000: tree_002_MeshPart0
+    4300002: tree_002_MeshPart1
+    4300004: leaves_002_MeshPart0
+    4300006: leaves_002_MeshPart1
+    4300008: leaves_002_MeshPart2
+    4300010: leaves_002_MeshPart3
+    4300012: tree_MeshPart0
+    4300014: tree_MeshPart1
+    4300016: leaves_MeshPart0
+    4300018: leaves_MeshPart1
+    4300020: leaves_MeshPart2
+    4300022: leaves_MeshPart3
+    4300024: leaves_MeshPart4
+    4300026: tree_001_MeshPart0
+    4300028: tree_001_MeshPart1
+    4300030: leaves_001_MeshPart0
+    4300032: leaves_001_MeshPart1
+    4300034: leaves_001_MeshPart2
+    4300036: leaves_001_MeshPart3
+    4300038: leaves_001_MeshPart4
+    4300040: leaves_001_MeshPart5
+    4300042: Plane
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

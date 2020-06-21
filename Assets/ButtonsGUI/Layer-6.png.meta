@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: e87b5b9e0ea230a41a09fa4892d54614
+timeCreated: 1489179868
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Layer-6_0
+    21300002: Layer-6_1
+    21300004: Layer-6_2
+    21300006: Layer-6_3
+    21300008: Layer-6_4
+    21300010: Layer-6_5
+    21300012: Layer-6_6
+    21300014: Layer-6_7
+    21300016: Layer-6_8
+    21300018: Layer-6_9
+    21300020: Layer-6_10
+    21300022: Layer-6_11
+    21300024: Layer-6_12
+    21300026: Layer-6_13
+    21300028: Layer-6_14
+    21300030: Layer-6_15
+    21300032: Layer-6_16
+    21300034: Layer-6_17
+    21300036: Layer-6_18
+    21300038: Layer-6_19
+    21300040: Layer-6_20
+    21300042: Layer-6_21
+    21300044: Layer-6_22
+    21300046: Layer-6_23
+    21300048: Layer-6_24
+    21300050: Layer-6_25
+    21300052: Layer-6_26
+    21300054: Layer-6_27
+    21300056: Layer-6_28
+    21300058: Layer-6_29
+    21300060: Layer-6_30
+    21300062: Layer-6_31
+    21300064: Layer-6_32
+    21300066: Layer-6_33
+    21300068: Layer-6_34
+    21300070: Layer-6_35
+    21300072: Layer-6_36
+    21300074: Layer-6_37
+    21300076: Layer-6_38
+    21300078: Layer-6_39
+    21300080: Layer-6_40
+    21300082: Layer-6_41
+    21300084: Layer-6_42
+    21300086: Layer-6_43
+    21300088: Layer-6_44
+    21300090: Layer-6_45
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Layer-6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 308.799988
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 231.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_23
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 154.800003
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_39
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 77.8000031
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: .800003052
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: .800003052
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: .800003052
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: .800003052
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: .800003052
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Layer-6_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: .800003052
+        width: 72.1999969
+        height: 77.1999969
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

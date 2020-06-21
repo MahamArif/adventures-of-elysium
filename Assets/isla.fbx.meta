@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: dc19c31c8b252424fbe2e9164bfcddf8
+timeCreated: 1489182945
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: agua.1
+    100002: borde piscina
+    100004: borde puerta
+    100006: Cilindro
+    100008: Cilindro.3
+    100010: cuarto de piscina
+    100012: Cubo
+    100014: Cubo.1
+    100016: Cubo.1.2
+    100018: Cubo.2
+    100020: Cubo.2.2
+    100022: Cubo.3
+    100024: Cubo.5
+    100026: Cubo.5.2
+    100028: "C\xE1mara"
+    100030: //RootNode
+    100032: Luz
+    100034: Luz.1
+    100036: Luz.2
+    100038: 'Objeto Nulo '
+    100040: Objeto Nulo .2
+    100042: Objeto Poligonal
+    100044: Pelo
+    100046: Plano
+    100048: puerta der
+    100050: puerta izq
+    100052: reja piscina
+    100054: reja terraza
+    100056: reja terraza.1
+    100058: segundo piso sala
+    100060: suelo
+    100062: tercer piso
+    100064: vdidio
+    100066: ventana
+    100068: ventana.1
+    100070: ventana.2
+    100072: ventana.3
+    100074: ventana.5
+    100076: ventana.7
+    100078: ventanal 1
+    100080: ventanal2
+    100082: vidrio
+    100084: vidrio.10
+    100086: vidrio.2
+    100088: vidrio.3
+    100090: vidrio.4
+    100092: vidrio.5
+    100094: vidrio.6
+    100096: vidrio.7
+    100098: vidrio.8
+    100100: vidrio.9
+    400000: agua.1
+    400002: borde piscina
+    400004: borde puerta
+    400006: Cilindro
+    400008: Cilindro.3
+    400010: cuarto de piscina
+    400012: Cubo
+    400014: Cubo.1
+    400016: Cubo.1.2
+    400018: Cubo.2
+    400020: Cubo.2.2
+    400022: Cubo.3
+    400024: Cubo.5
+    400026: Cubo.5.2
+    400028: "C\xE1mara"
+    400030: //RootNode
+    400032: Luz
+    400034: Luz.1
+    400036: Luz.2
+    400038: 'Objeto Nulo '
+    400040: Objeto Nulo .2
+    400042: Objeto Poligonal
+    400044: Pelo
+    400046: Plano
+    400048: puerta der
+    400050: puerta izq
+    400052: reja piscina
+    400054: reja terraza
+    400056: reja terraza.1
+    400058: segundo piso sala
+    400060: suelo
+    400062: tercer piso
+    400064: vdidio
+    400066: ventana
+    400068: ventana.1
+    400070: ventana.2
+    400072: ventana.3
+    400074: ventana.5
+    400076: ventana.7
+    400078: ventanal 1
+    400080: ventanal2
+    400082: vidrio
+    400084: vidrio.10
+    400086: vidrio.2
+    400088: vidrio.3
+    400090: vidrio.4
+    400092: vidrio.5
+    400094: vidrio.6
+    400096: vidrio.7
+    400098: vidrio.8
+    400100: vidrio.9
+    2300000: agua.1
+    2300002: borde piscina
+    2300004: borde puerta
+    2300006: Cilindro
+    2300008: Cilindro.3
+    2300010: cuarto de piscina
+    2300012: Cubo
+    2300014: Cubo.1
+    2300016: Cubo.1.2
+    2300018: Cubo.2
+    2300020: Cubo.2.2
+    2300022: Cubo.3
+    2300024: Cubo.5
+    2300026: Cubo.5.2
+    2300028: Objeto Poligonal
+    2300030: Plano
+    2300032: puerta der
+    2300034: puerta izq
+    2300036: reja piscina
+    2300038: reja terraza
+    2300040: reja terraza.1
+    2300042: segundo piso sala
+    2300044: suelo
+    2300046: tercer piso
+    2300048: vdidio
+    2300050: ventana
+    2300052: ventana.1
+    2300054: ventana.2
+    2300056: ventana.3
+    2300058: ventana.5
+    2300060: ventana.7
+    2300062: vidrio
+    2300064: vidrio.10
+    2300066: vidrio.2
+    2300068: vidrio.3
+    2300070: vidrio.4
+    2300072: vidrio.5
+    2300074: vidrio.6
+    2300076: vidrio.7
+    2300078: vidrio.8
+    2300080: vidrio.9
+    3300000: agua.1
+    3300002: borde piscina
+    3300004: borde puerta
+    3300006: Cilindro
+    3300008: Cilindro.3
+    3300010: cuarto de piscina
+    3300012: Cubo
+    3300014: Cubo.1
+    3300016: Cubo.1.2
+    3300018: Cubo.2
+    3300020: Cubo.2.2
+    3300022: Cubo.3
+    3300024: Cubo.5
+    3300026: Cubo.5.2
+    3300028: Objeto Poligonal
+    3300030: Plano
+    3300032: puerta der
+    3300034: puerta izq
+    3300036: reja piscina
+    3300038: reja terraza
+    3300040: reja terraza.1
+    3300042: segundo piso sala
+    3300044: suelo
+    3300046: tercer piso
+    3300048: vdidio
+    3300050: ventana
+    3300052: ventana.1
+    3300054: ventana.2
+    3300056: ventana.3
+    3300058: ventana.5
+    3300060: ventana.7
+    3300062: vidrio
+    3300064: vidrio.10
+    3300066: vidrio.2
+    3300068: vidrio.3
+    3300070: vidrio.4
+    3300072: vidrio.5
+    3300074: vidrio.6
+    3300076: vidrio.7
+    3300078: vidrio.8
+    3300080: vidrio.9
+    4300000: Cubo
+    4300002: Cubo.1.2
+    4300004: vidrio
+    4300006: Cubo.2.2
+    4300008: vidrio.2
+    4300010: borde puerta
+    4300012: puerta der
+    4300014: Cubo.5
+    4300016: Cilindro.3
+    4300018: puerta izq
+    4300020: Cubo.5.2
+    4300022: Cilindro
+    4300024: reja terraza.1
+    4300026: Cubo.1
+    4300028: Cubo.2
+    4300030: Cubo.3
+    4300032: Objeto Poligonal
+    4300034: Plano
+    4300036: cuarto de piscina
+    4300038: reja piscina
+    4300040: vidrio.4
+    4300042: borde piscina
+    4300044: agua.1
+    4300046: ventana.7
+    4300048: vidrio.5
+    4300050: ventana.5
+    4300052: vidrio.6
+    4300054: ventana.3
+    4300056: vidrio.7
+    4300058: ventana.2
+    4300060: vidrio.8
+    4300062: ventana.1
+    4300064: vidrio.9
+    4300066: ventana
+    4300068: vidrio.10
+    4300070: reja terraza
+    4300072: segundo piso sala
+    4300074: tercer piso
+    4300076: vdidio
+    4300078: vidrio.3
+    4300080: suelo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

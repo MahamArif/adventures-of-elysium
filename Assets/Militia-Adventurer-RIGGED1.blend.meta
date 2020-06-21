@@ -1,0 +1,1195 @@
+fileFormatVersion: 2
+guid: 581d559f9e1e60440ae1f63b1b0fe274
+timeCreated: 1489228434
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bandolera
+    100002: Body_001
+    100004: C1
+    100006: C2
+    100008: C3
+    100010: C4
+    100012: EyeL
+    100014: EyeR
+    100016: FeetL
+    100018: FeetR
+    100020: FingerL
+    100022: FingersR
+    100024: ForearmL
+    100026: ForearmR
+    100028: Funda_001
+    100030: HandL
+    100032: HandR
+    100034: Head
+    100036: Huesos
+    100038: Jaw
+    100040: LegKnife
+    100042: LowerlegL
+    100044: LowerlegR
+    100046: MasterBone
+    100048: //RootNode
+    100050: Neck
+    100052: PelvisL
+    100054: PelvisR
+    100056: Pitchfork
+    100058: Potion
+    100060: Purse
+    100062: Scroll
+    100064: Scroll_001
+    100066: Scythe
+    100068: Sheat
+    100070: Shield
+    100072: ShoulderboneL
+    100074: ShoulderboneL_001
+    100076: ShoulderBoneR
+    100078: Shovel
+    100080: Sword
+    100082: Sword_001
+    100084: Thumb2L
+    100086: Thumb2R
+    100088: ThumbL
+    100090: ThumbR
+    100092: TrowingKnife
+    100094: TrowingKnife_001
+    100096: TrowingKnife_002
+    100098: upperarmL
+    100100: UpperarmR
+    100102: UpperlegL
+    100104: UpperlegR
+    400000: Bandolera
+    400002: Body_001
+    400004: C1
+    400006: C2
+    400008: C3
+    400010: C4
+    400012: EyeL
+    400014: EyeR
+    400016: FeetL
+    400018: FeetR
+    400020: FingerL
+    400022: FingersR
+    400024: ForearmL
+    400026: ForearmR
+    400028: Funda_001
+    400030: HandL
+    400032: HandR
+    400034: Head
+    400036: Huesos
+    400038: Jaw
+    400040: LegKnife
+    400042: LowerlegL
+    400044: LowerlegR
+    400046: MasterBone
+    400048: //RootNode
+    400050: Neck
+    400052: PelvisL
+    400054: PelvisR
+    400056: Pitchfork
+    400058: Potion
+    400060: Purse
+    400062: Scroll
+    400064: Scroll_001
+    400066: Scythe
+    400068: Sheat
+    400070: Shield
+    400072: ShoulderboneL
+    400074: ShoulderboneL_001
+    400076: ShoulderBoneR
+    400078: Shovel
+    400080: Sword
+    400082: Sword_001
+    400084: Thumb2L
+    400086: Thumb2R
+    400088: ThumbL
+    400090: ThumbR
+    400092: TrowingKnife
+    400094: TrowingKnife_001
+    400096: TrowingKnife_002
+    400098: upperarmL
+    400100: UpperarmR
+    400102: UpperlegL
+    400104: UpperlegR
+    2300000: Potion
+    2300002: Scroll
+    2300004: Scroll_001
+    2300006: Sword_001
+    2300008: TrowingKnife
+    2300010: TrowingKnife_001
+    2300012: TrowingKnife_002
+    3300000: Potion
+    3300002: Scroll
+    3300004: Scroll_001
+    3300006: Sword_001
+    3300008: TrowingKnife
+    3300010: TrowingKnife_001
+    3300012: TrowingKnife_002
+    4300000: Body_001
+    4300002: Sheat
+    4300004: Purse
+    4300006: Shield
+    4300008: Sword
+    4300010: Funda_001
+    4300012: LegKnife
+    4300014: Bandolera
+    4300016: TrowingKnife_001
+    4300018: TrowingKnife
+    4300020: Scroll_001
+    4300022: TrowingKnife_002
+    4300024: Scroll
+    4300026: Potion
+    4300028: Pitchfork
+    4300030: Shovel
+    4300032: Scythe
+    4300034: Sword_001
+    7400000: Idle
+    7400002: Attack
+    7400004: PoseLib
+    7400006: Action
+    7400008: Default Take
+    9500000: //RootNode
+    13700000: Bandolera
+    13700002: Body_001
+    13700004: Funda_001
+    13700006: LegKnife
+    13700008: Pitchfork
+    13700010: Purse
+    13700012: Scythe
+    13700014: Sheat
+    13700016: Shield
+    13700018: Shovel
+    13700020: Sword
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Default Take' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'C4' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'C1' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'Action'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'C4' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'C1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Default Take
+      firstFrame: 20
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bandolera
+        weight: 0
+      - path: Bandolera/Potion
+        weight: 0
+      - path: Bandolera/Scroll
+        weight: 0
+      - path: Bandolera/Scroll_001
+        weight: 0
+      - path: Bandolera/TrowingKnife
+        weight: 0
+      - path: Bandolera/TrowingKnife_001
+        weight: 0
+      - path: Bandolera/TrowingKnife_002
+        weight: 0
+      - path: Body_001
+        weight: 0
+      - path: Funda_001
+        weight: 0
+      - path: Huesos
+        weight: 1
+      - path: Huesos/MasterBone
+        weight: 1
+      - path: Huesos/MasterBone/C3
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head/EyeL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head/EyeR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Jaw
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/HandL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/HandL/FingerL
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/ThumbL
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/ThumbL/Thumb2L
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL_001
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/HandR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/HandR/FingersR
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/ThumbR
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/ThumbR/Thumb2R
+        weight: 0
+      - path: Huesos/MasterBone/C4
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL/LowerlegL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL/LowerlegL/FeetL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR/LowerlegR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR/LowerlegR/FeetR
+        weight: 1
+      - path: LegKnife
+        weight: 0
+      - path: Pitchfork
+        weight: 0
+      - path: Purse
+        weight: 0
+      - path: Scythe
+        weight: 0
+      - path: Sheat
+        weight: 0
+      - path: Shield
+        weight: 0
+      - path: Shovel
+        weight: 0
+      - path: Sword
+        weight: 0
+      - path: Sword_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: Action
+      firstFrame: 0
+      lastFrame: 522
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bandolera
+        weight: 0
+      - path: Bandolera/Potion
+        weight: 0
+      - path: Bandolera/Scroll
+        weight: 0
+      - path: Bandolera/Scroll_001
+        weight: 0
+      - path: Bandolera/TrowingKnife
+        weight: 0
+      - path: Bandolera/TrowingKnife_001
+        weight: 0
+      - path: Bandolera/TrowingKnife_002
+        weight: 0
+      - path: Body_001
+        weight: 0
+      - path: Funda_001
+        weight: 0
+      - path: Huesos
+        weight: 1
+      - path: Huesos/MasterBone
+        weight: 1
+      - path: Huesos/MasterBone/C3
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head/EyeL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head/EyeR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Jaw
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/HandL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/HandL/FingerL
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/ThumbL
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/ThumbL/Thumb2L
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL_001
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/HandR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/HandR/FingersR
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/ThumbR
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/ThumbR/Thumb2R
+        weight: 0
+      - path: Huesos/MasterBone/C4
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL/LowerlegL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL/LowerlegL/FeetL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR/LowerlegR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR/LowerlegR/FeetR
+        weight: 1
+      - path: LegKnife
+        weight: 0
+      - path: Pitchfork
+        weight: 0
+      - path: Purse
+        weight: 0
+      - path: Scythe
+        weight: 0
+      - path: Sheat
+        weight: 0
+      - path: Shield
+        weight: 0
+      - path: Shovel
+        weight: 0
+      - path: Sword
+        weight: 0
+      - path: Sword_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Action
+      takeName: Action
+      firstFrame: 250
+      lastFrame: 362
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bandolera
+        weight: 0
+      - path: Bandolera/Potion
+        weight: 0
+      - path: Bandolera/Scroll
+        weight: 0
+      - path: Bandolera/Scroll_001
+        weight: 0
+      - path: Bandolera/TrowingKnife
+        weight: 0
+      - path: Bandolera/TrowingKnife_001
+        weight: 0
+      - path: Bandolera/TrowingKnife_002
+        weight: 0
+      - path: Body_001
+        weight: 0
+      - path: Funda_001
+        weight: 0
+      - path: Huesos
+        weight: 1
+      - path: Huesos/MasterBone
+        weight: 1
+      - path: Huesos/MasterBone/C3
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head/EyeL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head/EyeR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Jaw
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/HandL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/HandL/FingerL
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/ThumbL
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/ThumbL/Thumb2L
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL_001
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/HandR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/HandR/FingersR
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/ThumbR
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/ThumbR/Thumb2R
+        weight: 0
+      - path: Huesos/MasterBone/C4
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL/LowerlegL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL/LowerlegL/FeetL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR/LowerlegR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR/LowerlegR/FeetR
+        weight: 1
+      - path: LegKnife
+        weight: 0
+      - path: Pitchfork
+        weight: 0
+      - path: Purse
+        weight: 0
+      - path: Scythe
+        weight: 0
+      - path: Sheat
+        weight: 0
+      - path: Shield
+        weight: 0
+      - path: Shovel
+        weight: 0
+      - path: Sword
+        weight: 0
+      - path: Sword_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 497
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bandolera
+        weight: 0
+      - path: Bandolera/Potion
+        weight: 0
+      - path: Bandolera/Scroll
+        weight: 0
+      - path: Bandolera/Scroll_001
+        weight: 0
+      - path: Bandolera/TrowingKnife
+        weight: 0
+      - path: Bandolera/TrowingKnife_001
+        weight: 0
+      - path: Bandolera/TrowingKnife_002
+        weight: 0
+      - path: Body_001
+        weight: 0
+      - path: Funda_001
+        weight: 0
+      - path: Huesos
+        weight: 1
+      - path: Huesos/MasterBone
+        weight: 1
+      - path: Huesos/MasterBone/C3
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head/EyeL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Head/EyeR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/C1/Neck/Jaw
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/HandL
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/HandL/FingerL
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/ThumbL
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL/upperarmL/ForearmL/ThumbL/Thumb2L
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderboneL_001
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/HandR
+        weight: 1
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/HandR/FingersR
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/ThumbR
+        weight: 0
+      - path: Huesos/MasterBone/C3/C2/ShoulderBoneR/UpperarmR/ForearmR/ThumbR/Thumb2R
+        weight: 0
+      - path: Huesos/MasterBone/C4
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL/LowerlegL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisL/UpperlegL/LowerlegL/FeetL
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR/LowerlegR
+        weight: 1
+      - path: Huesos/MasterBone/C4/PelvisR/UpperlegR/LowerlegR/FeetR
+        weight: 1
+      - path: LegKnife
+        weight: 0
+      - path: Pitchfork
+        weight: 0
+      - path: Purse
+        weight: 0
+      - path: Scythe
+        weight: 0
+      - path: Sheat
+        weight: 0
+      - path: Shield
+        weight: 0
+      - path: Shovel
+        weight: 0
+      - path: Sword
+        weight: 0
+      - path: Sword_001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: MasterBone
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperlegR
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperlegL
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerlegR
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerlegL
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FeetR
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FeetL
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: C3
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: C2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShoulderBoneR
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ShoulderboneL
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UpperarmR
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upperarmL
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ForearmR
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ForearmL
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HandR
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HandL
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EyeR
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EyeL
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Militia-Adventurer-RIGGED1(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bandolera
+      position: {x: -.0473648012, y: -.0461883135, z: .727790296}
+      rotation: {x: .0211087968, y: -.00596857164, z: .00533283222, w: .99974519}
+      scale: {x: .0387586355, y: .038758643, z: .064075917}
+      transformModified: 1
+    - name: Potion
+      position: {x: 6.37123442, y: 43.3636932, z: 54.4631691}
+      rotation: {x: .999968529, y: -.00144227094, z: .00780577725, w: -7.4887088e-05}
+      scale: {x: .999992728, y: .604898155, z: 1.65320385}
+      transformModified: 1
+    - name: Scroll
+      position: {x: 1.5756731, y: 44.2675819, z: 60.1039162}
+      rotation: {x: .999968529, y: -.0014422707, z: .00780577678, w: -7.4887088e-05}
+      scale: {x: .863548934, y: .522362947, z: 1.42763257}
+      transformModified: 1
+    - name: Scroll_001
+      position: {x: 3.39306426, y: 44.2624321, z: 58.6184235}
+      rotation: {x: .999968529, y: -.0014422707, z: .00780577678, w: -7.4887088e-05}
+      scale: {x: .863548934, y: .522362947, z: 1.42763257}
+      transformModified: 1
+    - name: TrowingKnife
+      position: {x: -3.63414526, y: 44.1795082, z: 61.9591103}
+      rotation: {x: .999968529, y: -.00144227094, z: .00780577725, w: -7.4887088e-05}
+      scale: {x: .999992728, y: .604898155, z: 1.65320385}
+      transformModified: 1
+    - name: TrowingKnife_001
+      position: {x: -1.28346813, y: 44.3937798, z: 59.7745743}
+      rotation: {x: .999968529, y: -.00144227094, z: .00780577725, w: -7.4887088e-05}
+      scale: {x: .999992728, y: .604898155, z: 1.65320385}
+      transformModified: 1
+    - name: TrowingKnife_002
+      position: {x: -6.30402899, y: 43.4903412, z: 64.4981079}
+      rotation: {x: .999968529, y: -.00144227094, z: .00780577725, w: -7.4887088e-05}
+      scale: {x: .999992728, y: .604898155, z: 1.65320385}
+      transformModified: 1
+    - name: Body_001
+      position: {x: -.0494020432, y: -.31327486, z: 1.2432152}
+      rotation: {x: -.00190771581, y: -.00835757703, z: .222531602, w: .974887788}
+      scale: {x: .0387586392, y: .0387586392, z: .0640759096}
+      transformModified: 1
+    - name: Funda_001
+      position: {x: -.348777652, y: -.0699950084, z: 1.68551302}
+      rotation: {x: 1.26102762e-07, y: -.0547595359, z: -7.63781657e-07, w: .998499572}
+      scale: {x: .0387586355, y: .038758643, z: .0640758947}
+      transformModified: 1
+    - name: Huesos
+      position: {x: 1.37383176e-06, y: 1.92451572, z: .0135390684}
+      rotation: {x: -.0060617514, y: -.707080781, z: .707080901, w: .0060617514}
+      scale: {x: .626615405, y: .626615405, z: .626615405}
+      transformModified: 1
+    - name: MasterBone
+      position: {x: -.0117754498, y: -.242371678, z: .87285918}
+      rotation: {x: .706971526, y: -.707104504, z: -.00172182638, w: -.0138388202}
+      scale: {x: .999998927, y: .999999344, z: .999998569}
+      transformModified: 1
+    - name: C4
+      position: {x: -.177065909, y: 1.48895651e-08, z: -4.60619738e-08}
+      rotation: {x: .711202919, y: -.00170872244, z: .702682853, w: .0206041131}
+      scale: {x: 1.00000083, y: 1.00000036, z: 1.00000048}
+      transformModified: 1
+    - name: PelvisR
+      position: {x: -.236942783, y: .00127365079, z: -.00999080483}
+      rotation: {x: -.533073962, y: .570292294, z: .254913479, w: -.570629537}
+      scale: {x: .999999702, y: .999998331, z: 1.00000048}
+      transformModified: 1
+    - name: UpperlegR
+      position: {x: -.195446998, y: 1.2665987e-07, z: -4.84287739e-08}
+      rotation: {x: .531429291, y: .237576589, z: -.521213651, w: .624080777}
+      scale: {x: .999999464, y: .999997914, z: 1.00000226}
+      transformModified: 1
+    - name: LowerlegR
+      position: {x: -.861857772, y: 6.01430656e-08, z: 0}
+      rotation: {x: .306486905, y: -.0536041856, z: -.00597837847, w: .950345576}
+      scale: {x: .999999523, y: .999999166, z: .999999166}
+      transformModified: 1
+    - name: FeetR
+      position: {x: -.961166739, y: 5.21540642e-08, z: -2.23517418e-08}
+      rotation: {x: .0170537774, y: .674305797, z: -.0546368957, w: .736230731}
+      scale: {x: .999999821, y: 1.00000262, z: 1.00000274}
+      transformModified: 1
+    - name: PelvisL
+      position: {x: -.236942783, y: .00127365079, z: -.00999080483}
+      rotation: {x: .519242108, y: .586982012, z: -.233088687, w: -.575768709}
+      scale: {x: .999999583, y: .999998212, z: 1.0000006}
+      transformModified: 1
+    - name: UpperlegL
+      position: {x: -.196030527, y: -2.23517418e-08, z: -1.58324838e-07}
+      rotation: {x: -.532484412, y: .220158622, z: .530199826, w: .621995866}
+      scale: {x: 1.00000012, y: .999997377, z: 1.00000226}
+      transformModified: 1
+    - name: LowerlegL
+      position: {x: -.861333907, y: 7.17118382e-08, z: 3.72529008e-09}
+      rotation: {x: -.0138149001, y: -.0511513203, z: .0138932234, w: .998498738}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: FeetL
+      position: {x: -.962387025, y: 9.12696123e-08, z: -3.7252903e-08}
+      rotation: {x: .733780742, y: -.355927438, z: -.575862527, w: -.0571295954}
+      scale: {x: 1.00000191, y: .99999553, z: 1.0000037}
+      transformModified: 1
+    - name: C3
+      position: {x: -.177065909, y: 1.58208877e-08, z: -4.60619702e-08}
+      rotation: {x: -.0118492432, y: .722556472, z: 3.21746211e-06, w: .691210449}
+      scale: {x: 1.0000006, y: 1.00000024, z: 1.00000036}
+      transformModified: 1
+    - name: C2
+      position: {x: -.389114082, y: 3.01515684e-08, z: -3.63799997e-11}
+      rotation: {x: 2.53840824e-07, y: -.0378234126, z: -.000648562971, w: .999284267}
+      scale: {x: .999999225, y: 1.00000072, z: 1.00000083}
+      transformModified: 1
+    - name: ShoulderBoneR
+      position: {x: -.32631883, y: -.00322160358, z: .000982697471}
+      rotation: {x: -.486278057, y: -.574857235, z: -.513804555, w: -.411190718}
+      scale: {x: .999999225, y: 1, z: .999999821}
+      transformModified: 1
+    - name: UpperarmR
+      position: {x: -.430068016, y: 5.90068794e-09, z: -3.0964236e-07}
+      rotation: {x: .294926196, y: -.0553117245, z: .0243590306, w: .953606725}
+      scale: {x: 1.00000226, y: .999999285, z: .999998033}
+      transformModified: 1
+    - name: ForearmR
+      position: {x: -.377534479, y: 3.7252903e-08, z: -2.88709998e-08}
+      rotation: {x: -.0585864633, y: -.0106708193, z: .0494380668, w: .997000396}
+      scale: {x: .999997675, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: HandR
+      position: {x: -.539810419, y: 2.23517418e-08, z: -7.4505806e-09}
+      rotation: {x: .174178913, y: .111893743, z: .000589709322, w: .978335977}
+      scale: {x: 1.00000203, y: 1.00000179, z: .999997914}
+      transformModified: 1
+    - name: FingersR
+      position: {x: -.197316527, y: 8.19563866e-08, z: -4.47034836e-08}
+      rotation: {x: .136661723, y: .187772617, z: .0209068302, w: .972434044}
+      scale: {x: 1.0000025, y: 1.00000167, z: .99999547}
+      transformModified: 1
+    - name: ThumbR
+      position: {x: -.539810419, y: 2.23517418e-08, z: -7.4505806e-09}
+      rotation: {x: -.551750958, y: -.241054341, z: .334730506, w: .724858165}
+      scale: {x: 1.00000095, y: .999997079, z: 1.00000155}
+      transformModified: 1
+    - name: Thumb2R
+      position: {x: -.170651466, y: 0, z: -5.96046448e-08}
+      rotation: {x: .825286925, y: .225173876, z: -.0178619605, w: .517570496}
+      scale: {x: 1.00000167, y: 1.00000441, z: .999995947}
+      transformModified: 1
+    - name: ShoulderboneL
+      position: {x: -.32631883, y: -.00322160358, z: .000982697471}
+      rotation: {x: -.487783879, y: .593680024, z: -.491707742, w: .409676105}
+      scale: {x: .999997795, y: .999997973, z: 1.00000107}
+      transformModified: 1
+    - name: upperarmL
+      position: {x: -.429965287, y: 3.52501957e-08, z: -2.29761383e-08}
+      rotation: {x: -.291998774, y: -.0706092045, z: -.033607699, w: .953216434}
+      scale: {x: 1.00000048, y: .999999702, z: .999997616}
+      transformModified: 1
+    - name: ForearmL
+      position: {x: -.385050923, y: 2.42143869e-08, z: -2.70083547e-08}
+      rotation: {x: .0657438561, y: -.0104513895, z: -.0498049334, w: .996537983}
+      scale: {x: 1.00000131, y: 1.00000179, z: .999998808}
+      transformModified: 1
+    - name: HandL
+      position: {x: -.539151609, y: 4.47034836e-08, z: 7.4505806e-09}
+      rotation: {x: -.176449463, y: .101993069, z: .0127207823, w: .978928566}
+      scale: {x: .999999702, y: .999997497, z: 1.00000238}
+      transformModified: 1
+    - name: FingerL
+      position: {x: -.2105003, y: 7.4505806e-09, z: -8.94069672e-08}
+      rotation: {x: -.0180559028, y: .229011476, z: -.01225146, w: .973179162}
+      scale: {x: 1.0000037, y: 1.00000131, z: .999997199}
+      transformModified: 1
+    - name: ThumbL
+      position: {x: -.539151609, y: 4.47034836e-08, z: 7.4505806e-09}
+      rotation: {x: .745171249, y: -.31528464, z: -.250998914, w: .531333268}
+      scale: {x: 1.00000238, y: .999998271, z: 1.00000012}
+      transformModified: 1
+    - name: Thumb2L
+      position: {x: -.169051588, y: -7.4505806e-09, z: -7.4505806e-08}
+      rotation: {x: -.715402544, y: .140312955, z: -.215423986, w: .649695277}
+      scale: {x: 1.00000346, y: .999998868, z: .99999851}
+      transformModified: 1
+    - name: C1
+      position: {x: -.323377788, y: 2.43571776e-08, z: 8.85392981e-10}
+      rotation: {x: -9.34822495e-08, y: .0318766609, z: .000546516152, w: .999491692}
+      scale: {x: 1.00000072, y: .999999404, z: .999999583}
+      transformModified: 1
+    - name: Neck
+      position: {x: -.159663811, y: -.00317735784, z: -.000816227926}
+      rotation: {x: -.652939856, y: -.0824222341, z: -.0743938684, w: .749227524}
+      scale: {x: .999998987, y: .999999166, z: .999997973}
+      transformModified: 1
+    - name: Jaw
+      position: {x: -.0889898017, y: 9.67702363e-09, z: 1.16415003e-10}
+      rotation: {x: -.790014625, y: .557711363, z: -.191423252, w: .167905256}
+      scale: {x: 1.00000155, y: 1.0000006, z: 1.00000131}
+      transformModified: 1
+    - name: Head
+      position: {x: -.0889898017, y: 9.67702363e-09, z: 1.16415003e-10}
+      rotation: {x: .446636826, y: .0557077527, z: .0841271579, w: .889007866}
+      scale: {x: 1.00000215, y: 1, z: 1.00000083}
+      transformModified: 1
+    - name: EyeR
+      position: {x: -.241007835, y: .0509758443, z: -.207492247}
+      rotation: {x: -.682235539, y: .145561442, z: -.699800253, w: .153773174}
+      scale: {x: .999998689, y: 1.00000226, z: .999999583}
+      transformModified: 1
+    - name: EyeL
+      position: {x: -.240996376, y: .153205097, z: -.148746669}
+      rotation: {x: -.66733259, y: .20216769, z: -.685651422, w: .208992124}
+      scale: {x: .999997914, y: 1.00000143, z: .999999464}
+      transformModified: 1
+    - name: ShoulderboneL_001
+      position: {x: -.32631883, y: -.00322160358, z: .000982697471}
+      rotation: {x: -.503422618, y: -.598814726, z: -.487525761, w: -.387692302}
+      scale: {x: .999998868, y: .999999225, z: 1.00000083}
+      transformModified: 1
+    - name: LegKnife
+      position: {x: .276574612, y: -.0740623102, z: 1.65784812}
+      rotation: {x: -.0386603698, y: .0567746051, z: .109506488, w: .991609991}
+      scale: {x: .0387586467, y: .038758643, z: .0640759096}
+      transformModified: 1
+    - name: Pitchfork
+      position: {x: -.546215355, y: -1.32715297, z: 1.26941025}
+      rotation: {x: -.200721398, y: .800873458, z: .52334702, w: -.210761845}
+      scale: {x: .0387586392, y: .0387586355, z: .064075917}
+      transformModified: 1
+    - name: Purse
+      position: {x: -.341857076, y: -.336702734, z: .947224557}
+      rotation: {x: 8.96974217e-10, y: -.173095286, z: 5.60988855e-09, w: .984905124}
+      scale: {x: .0387586355, y: .0387586318, z: .0640759096}
+      transformModified: 1
+    - name: Scythe
+      position: {x: -1.77023816, y: -.0786993727, z: 1.48991585}
+      rotation: {x: -.0517857969, y: -.0318712778, z: -.139554143, w: .988345623}
+      scale: {x: .0387586318, y: .0387586467, z: .0640759021}
+      transformModified: 1
+    - name: Sheat
+      position: {x: .361030787, y: -.0626670942, z: .9679057}
+      rotation: {x: -.155623823, y: -.021676328, z: -.710743845, w: .685678184}
+      scale: {x: .0387586318, y: .0387586318, z: .064075917}
+      transformModified: 1
+    - name: Shield
+      position: {x: .985693991, y: -.0421612971, z: .689122498}
+      rotation: {x: -.257890165, y: .068740353, z: .934063554, w: .237260938}
+      scale: {x: .0387586318, y: .0387586318, z: .0640759021}
+      transformModified: 1
+    - name: Shovel
+      position: {x: -.587385297, y: -1.35731483, z: 1.31372249}
+      rotation: {x: -.436866015, y: .703947067, z: .558871686, w: -.0356236845}
+      scale: {x: .0387586355, y: .0387586355, z: .0640759096}
+      transformModified: 1
+    - name: Sword
+      position: {x: -1.25393832, y: -.322236568, z: .844470024}
+      rotation: {x: -1.5891668e-06, y: .477695674, z: -5.7609127e-06, w: .878525376}
+      scale: {x: .038758643, y: .0387586355, z: .064075917}
+      transformModified: 1
+    - name: Sword_001
+      position: {x: .496057093, y: 1.20256031, z: .29077512}
+      rotation: {x: .438754052, y: .668704987, z: -.540086627, w: -.261982709}
+      scale: {x: .0242867582, y: .0242867526, z: .0401509479}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
